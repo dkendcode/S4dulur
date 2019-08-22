@@ -1,0 +1,8 @@
+How to Use Mikhmon Mod
+
+	1. Rename Official Mihkmon with another NAME 
+		(ex: Mikhmon_Official)
+	2. Copy Mikhmon Mod folder (mikhmon folder) to Server
+
+*note:
+	- do not replace official Mikhmon
